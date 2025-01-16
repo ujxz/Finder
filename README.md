@@ -3,7 +3,7 @@
 Luper - Discovery Enumerator
 =========
 
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-MIT-violet.svg)
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
 ![Stars](https://img.shields.io/github/stars/whjab/luper.svg)
 [![Release](https://img.shields.io/github/release/whjab/luper.svg)](https://github.com/ujxz/luper/releases)
@@ -13,6 +13,8 @@ Luper - Discovery Enumerator
 > Discovery Enumerator - brute-forcer
 
 Produced by @whjab, inspired by **Dirsearch** by [@maurosoria](https://github.com/maurosoria)
+
+Created with the intention of being a Brazilian version
 
 *Send me a message on twitter: [@_whjab](https://x.com/_whjab)*
 
