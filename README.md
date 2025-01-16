@@ -5,16 +5,16 @@ Luper - Discovery Enumerator
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Build](https://img.shields.io/badge/Built%20with-Python-Blue)
-![Stars](https://img.shields.io/github/stars/ujxz/luper.svg)
-[![Release](https://img.shields.io/github/release/ujxz/luper.svg)](https://github.com/ujxz/luper/releases)
-[![Sponsors](https://img.shields.io/github/sponsors/maurosoria)](https://github.com/sponsors/ujxz)
+![Stars](https://img.shields.io/github/stars/whjab/luper.svg)
+[![Release](https://img.shields.io/github/release/whjab/luper.svg)](https://github.com/ujxz/luper/releases)
+[![Sponsors](https://img.shields.io/github/sponsors/maurosoria)](https://github.com/sponsors/wjab)
 
 
 > Discovery Enumerator - brute-forcer
 
-Produced by @ujxz, inspired by **Dirsearch** by [@maurosoria](https://github.com/maurosoria)
+Produced by @whjab, inspired by **Dirsearch** by [@maurosoria](https://github.com/maurosoria)
 
-*Send me a message on twitter: [@_ujxz](https://x.com/_ujxz)*
+*Send me a message on twitter: [@_whjab](https://x.com/_whjab)*
 
 How to use
 ---------------
@@ -28,7 +28,7 @@ PS $ python .\tests\test_brute_forcer.py -u "https://google.com" -w .\wordlists\
 
 ==================================================
 LUPER  v0.1.7
-by Jabes Eduardo (@ujxz)
+by Jabes Eduardo (@whjab)
 ==================================================
 [*] target ->>  https://google.com
 [*] wordlist ->>  .\wordlists\common.txt
